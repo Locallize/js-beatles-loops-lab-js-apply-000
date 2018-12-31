@@ -29,11 +29,11 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(numbers){
-  var beatle = "I love the Beatles!";
+  // var beatle = "I love the Beatles!";
   var c = [];
   var i = 0;
     do{
-      c.push(Beatle);
+      c.push("I love the Beatles!");
       numbers + i++;
     }while(i<15);
     
