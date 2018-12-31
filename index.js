@@ -35,7 +35,7 @@ function iLoveTheBeatles(numbers){
     do{
       c.push(Beatles);
       numbers++;
-    }while(numbers<15);
+    }while(numbers<15 && i >);
     
   return c;
 }
