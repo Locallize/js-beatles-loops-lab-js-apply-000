@@ -27,15 +27,3 @@ function johnLennonFacts(facts){
   }
   return b;
 }
-
-function iLoveTheBeatles(numbers){
-  // var beatle = "I love the Beatles!";
-  var c = [];
-  var i = 0;
-    do{
-      c.push("I love the Beatles!");
-      i++;
-    }while(numbers+i<15);
-    
-  return c;
-}
