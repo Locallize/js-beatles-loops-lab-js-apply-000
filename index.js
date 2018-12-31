@@ -34,7 +34,7 @@ function iLoveTheBeatles(numbers){
     do{
       c.push("I love the Beatles!");
       numbers++;
-    }while(numbers>15);
+    }while(numbers<15);
     
   return c;
 }
