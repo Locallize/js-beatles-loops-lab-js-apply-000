@@ -33,7 +33,7 @@ function iLoveTheBeatles(numbers){
   var c = [];
   var i = 0;
     do{
-      c.push(Beatles);
+      c.push(Beatle);
       numbers + i++;
     }while(i<15);
     
